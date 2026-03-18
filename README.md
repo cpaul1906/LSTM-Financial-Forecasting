@@ -1,6 +1,3 @@
-Paste this into the repo’s `README.md`:
-
-```markdown
 # LSTM Financial Forecasting with Deep Learning
 
 This project builds a Long Short-Term Memory (LSTM) neural network in Python for financial time series forecasting. It demonstrates a practical sequence modeling workflow that includes data preprocessing, windowed sequence creation, model training, evaluation, and visualization of predicted versus actual trends.
@@ -88,4 +85,3 @@ This project was originally developed as graduate coursework and is being shared
 ## Author
 
 Christopher Paul
-```
